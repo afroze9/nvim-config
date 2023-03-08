@@ -1,2 +1,2 @@
 require("afroze.remap")
-print("hello again")
+require("afroze.set")

@@ -1,3 +1,2 @@
 require("afroze")
-print("hello")
 
