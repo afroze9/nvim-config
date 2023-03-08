@@ -1,0 +1,3 @@
+require("afroze")
+print("hello")
+
